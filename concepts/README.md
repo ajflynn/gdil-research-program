@@ -2,11 +2,11 @@
 
 Core Concepts
 
-✓ Goal-Directed Intelligence Layers
-✓ Computable Knowledge Layer
-✓ Goal-Directed Knowledge Application
-✓ Computational Goals
-✓ Desired Future States of Knowledge
+- ✓ Goal-Directed Intelligence Layers
+- ✓ Computable Knowledge Layer
+- ✓ Goal-Directed Knowledge Application
+- ✓ Computational Goals
+- ✓ Desired Future States of Knowledge
 
 Emerging Concepts
 
