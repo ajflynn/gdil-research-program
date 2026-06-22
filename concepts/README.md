@@ -10,13 +10,13 @@ Core Concepts
 
 Emerging Concepts
 
-Goal–Knowledge Alignment
-Computable Knowledge
-Computational Capability
-Computational Capability Discovery
-Metadata-Driven Alignment
-Goal-bearing FAIR Digital Objects
-Computable Knowledge-bearing FAIR Digital Objects
-Constructed Realizations
-Alignment Engines
-Item Space
+- Goal–Knowledge Alignment
+- Computable Knowledge
+- Computational Capability
+- Computational Capability Discovery
+- Metadata-Driven Alignment
+- Goal-bearing FAIR Digital Objects
+- Computable Knowledge-bearing FAIR Digital Objects
+- Constructed Realizations
+- Alignment Engines
+- Item Space
