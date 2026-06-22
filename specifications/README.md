@@ -10,7 +10,7 @@ These specifications define the conceptual, structural, experimental, and techni
 - ✓ Canonical GB-FDO Corpus Design Specification
 - ✓ Canonical Item Specification
 - Experimental Item Assignment Strategy and Protocol
-- Experimental Item Space Specification
+- ✓ Experimental Item Space Specification
 - ✓ GARI v1.0 Implementation Specification
 - ✓ GARI v1.0 Reference Data Schemas
 - ✓ GARI v1.0 Specification
@@ -35,7 +35,7 @@ Defines the Item as a referenceable specification of a computationally meaningfu
 
 Defines the strategy and protocol used to assign Items to experimental GB-FDOs and CBKB-FDOs within canonical corpora and experimental studies.
 
-### Experimental Item Space Specification
+### ✓ Experimental Item Space Specification
 
 Defines the construction, composition, and intended properties of the experimental Item Space used in GDIL experiments.
 
