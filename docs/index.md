@@ -1,15 +1,17 @@
 <div align="center">
 
-# GDIL Research Program
+<h1>GDIL Research Program</h1>
 
-### Goal-Directed Intelligence Through the Discovery, Alignment, and Orchestration of Computable Knowledge
+<h3>Goal-Directed Intelligence Through the Discovery, Alignment, and Orchestration of Computable Knowledge</h3>
 
 <br>
 
-*Research Program*
+<p><em>Research Program</em></p>
 
-University of Michigan  
+<p>
+University of Michigan<br>
 Department of Learning Health Sciences
+</p>
 
 <br>
 
