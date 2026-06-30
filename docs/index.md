@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <div align="center">
 
 <h1>GDIL Research Program</h1>
