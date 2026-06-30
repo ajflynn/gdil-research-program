@@ -13,8 +13,6 @@ Department of Learning Health Sciences
 
 <br>
 
-<img src="assets/figures/research-program-overview.png" width="900">
-
 </div>
 
 ---
@@ -51,44 +49,6 @@ Reference specifications, corpora, and software supporting reproducible investig
 
 ---
 
-## Current Program Components
-
-| Component | Status |
-|-----------|:------:|
-| Conceptual Foundations | ✓ |
-| Computable Knowledge Layer | ✓ |
-| GARI v1.0 Specification | ✓ |
-| Experimental Item Specification | ✓ |
-| GB-FDO Corpus Design | ✓ |
-| CBKB-FDO Corpus Design | In Progress |
-| Experimental Research Program | In Progress |
-
----
-
-## Research Architecture
-
-<div align="center">
-
-<img src="assets/figures/gdil-overview.png" width="850">
-
-</div>
-
----
-
-## Selected Figures
-
-<div align="center">
-
-<img src="assets/figures/computable-knowledge-layer.png" width="850">
-
-<br><br>
-
-<img src="assets/figures/gari-workflow.png" width="850">
-
-</div>
-
----
-
 ## Publications and Specifications
 
 The research program is being developed as a coordinated collection of conceptual papers, technical specifications, experimental protocols, software, and illustrative figures.
@@ -97,9 +57,11 @@ Current materials include:
 
 - Concept papers
 - Canonical specifications
+- Figures
+
+Future materials to include:
 - Experimental corpora
 - GARI software
-- Reference figures
 - Supporting documentation
 
 ---
